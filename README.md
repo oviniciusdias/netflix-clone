@@ -1,2 +1,2 @@
-# Recriando a Interface do Netflix
+# Recriação da interface do netflixe.
 Projeto pratico da DIO
